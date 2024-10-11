@@ -42,7 +42,6 @@ class BodyPartSelectorTurnable extends StatelessWidget {
           ),
         ),
       ),
-      labels: labelData,
     );
   }
 }
